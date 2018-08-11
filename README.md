@@ -7,6 +7,8 @@ The provided code was developed using the following software:
 
 An MSI GeForce GTX 1070Ti and an MSI GeForce GTX 1060 OC GPU were used for training and testing the models.
 
+The whole trained neural network implementation is in the "trained_NN".
+
 # Datasets and trained models
 
 For your convenience, all datasets, files and model weights which are needed to evaluate our models are zipped into a single folder. The file can be downloaded from [this link](https://drive.google.com/open?id=1ZqpSeq-8r5_WcH8In99wwPOclGY56JQA).
